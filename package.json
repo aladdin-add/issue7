@@ -22,6 +22,7 @@
   "devDependencies": {
     "@babel/core": "^7.11.0",
     "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
     "@webhotelier/webpack-fast-refresh": "^5.0.4",
     "antd": "^4.4.3",
     "babel-loader": "^8.1.0",
